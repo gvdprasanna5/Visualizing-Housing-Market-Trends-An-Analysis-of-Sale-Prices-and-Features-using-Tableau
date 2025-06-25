@@ -1,1 +1,1 @@
-# Visualizing-Housing-Market-Trends-An-Analysis-of-Sale-Prices-and-Features-using-Tableau
+This project explores real estate market behavior by leveraging Tableau for dynamic data visualization and Flask for seamless web deployment. The analysis uncovers relationships between property features and sale prices to assist in informed decision-making.
